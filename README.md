@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @betocop-usa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python, C++, encryption, relational databases
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Machine learning, embedded systems, networking, encryption
+- C++, some python
+- C++ projects
+- beto.coppola13@gmail.com
 
 <!---
 betocop-usa/betocop-usa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
