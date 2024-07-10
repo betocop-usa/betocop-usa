@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @betocop-usa
-- 👀 I’m interested in Machine learning, embedded systems, networking, encryption
-- C++, some python
-- C++ projects
-- C++ libraries i'm interested in - eigen, boost asio, std
-- beto.coppola13@gmail.com
+- 👀 I’m interested in
+- 
 
 <!---
 betocop-usa/betocop-usa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
